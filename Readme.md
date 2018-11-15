@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainWindow.xaml](./CS/WpfApplication6/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/WpfApplication6/MainWindow.xaml))**
+* [MainWindow.xaml.cs](./CS/WpfApplication6/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/WpfApplication6/MainWindow.xaml))
+<!-- default file list end -->
 # How to resize columns when column headers are hidden
 
 
